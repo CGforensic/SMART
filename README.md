@@ -1,7 +1,8 @@
 We present SMART, a novel software developed within the fully continuous model framework to analyze STR mixture profiles.
 
 # Download:
-Because an installation package is too large to upload to GitHub, we have uploaded it to Google Drive. Here is the download link: https://drive.google.com/file/d/1cDGDQfkdgiLgRIo6g6qgK5SpWt3scsGR/view?usp=sharing.
+Because an installation package is too large to upload to GitHub, we have uploaded it to Google Drive. Here is the download link: 
+https://drive.google.com/file/d/1-tSNKYz5D96HWR_fo5965N_KMgJu_BQy/view?usp=share_link
 
 # Requirements:
 1. Operating System: Windows 7, Windows 10, Windows 11
